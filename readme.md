@@ -40,5 +40,3 @@ In this lab you're going to combine everything we've learned so far!
 #### Starter Code
 
 Here is the [dataset](./assets/datasets/sales_info.csv) and here is your [starter code notebook](./code/starter-code/w1-3.4-lab.ipynb).
-
-> [Solution code](./code/solution-code/w1-3.4-lab-solution.ipynb)
